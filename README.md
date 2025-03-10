@@ -1,6 +1,8 @@
 <a href="https://www.instagram.com/textzuhree/"><img src="https://img.shields.io/badge/Version-BETA-black.svg?" hspace="10"  align="right" /></a>Telari-H4ckTool
 --
-Hacktool for Türkiye 🚀<br><br>
+
+Hacktool for Türkiye 🚀
+
 ![1](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![2](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![3](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -23,7 +25,7 @@ cd Telari-H4ckTool
 bash ./install-telari.sh
 ```
 <details>
-<summary>Kurulum sonrası Telari'yi başlatmak için</summary>
+<summary>Kurulum sonrası Telari'yi çalıştırmak için</summary>
 <code>bash ./telari.sh --shell</code>
 </details>
 
