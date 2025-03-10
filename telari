@@ -95,12 +95,12 @@ banner
 if [[ $islem == 1 || $islem == 01 ]]; then
 clear
 cd cupp
-sudo python3 cupp.py -i
+python3 cupp.py -i
 elif [[ $islem == 2 || $islem == 02 ]]; then
 	clear
 cd instashell
 service tor start
-sudo bash ./instashell.sh
+bash ./instashell.sh
 
 elif [[ $islem == 3 || $islem == 03 ]]; then
 clear
@@ -119,7 +119,7 @@ python3 pyphisher.py
 elif [[ $islem == 6 || $islem == 06 ]]; then
 clear
 cd userrecon
-sudo bash ./userrecon.sh
+bash ./userrecon.sh
 
 
 elif [[ $islem == 7 || $islem == 07 ]]; then
