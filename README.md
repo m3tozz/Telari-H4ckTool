@@ -7,6 +7,7 @@ Hacktool for Türkiye 🚀
 ![2](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![3](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+
 --------------------------------------------------------------------------
 
 # Kurulum:
@@ -25,7 +26,7 @@ cd Telari-H4ckTool
 bash ./install-telari.sh
 ```
 <details>
-<summary>Kurulum sonrası Telari'yi çalıştırmak için</summary>
+<summary>Kurulum sonrası Telari'yi çalıştırmak için;</summary>
 <code>bash ./telari.sh --shell</code>
 </details>
 
