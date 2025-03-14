@@ -57,7 +57,7 @@ yardım() {
 	echo -e "\e[0;32m	 
 --shell: Telari'yi çalıştır.
 --version: Kullandığım sürümü göster.
---about: Telari hakkında.
+--hakkında: Telari hakkında.
 --yardım: Bu mesajı göster.
 \033[00m"
 }
