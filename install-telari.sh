@@ -89,12 +89,12 @@ sleep 1
 git clone https://github.com/tingirifistik/Enough-Reborn.git
 cd Enough-Reborn
 pip3 install -r requirements.txt
+cd ..
 
 echo -e "\033[1;31m
 Installing CamPhish...\033[01;32m"
 git clone https://github.com/techchipnet/CamPhish
 
-cd ..
 clear
 notify-send Necessary\ packages\ for\ Telari\ have\ been\ installed!
 echo -e "\033[1;31m
